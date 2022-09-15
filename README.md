@@ -14,5 +14,10 @@ The usage of this portfolio is to exhibit the creators projects on a live webpag
 [alt text](assets/images/Capture2.PNG)
 [alt text](assets/images/Capture3.PNG)
 
+## Link
+
+The following is the link to the live page:
+
+https://constantmotion1.github.io/Module2Challenge/
 
 
